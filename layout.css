@@ -1,3 +1,55 @@
-nav {
-    font-family: 'Caveat', cursive;
+body {
+    color: black;
+    text-align: center;
+    background-color: #dbf5b3;
 }
+
+h1 {
+    font-weight: bold;
+    font-size: 150%;
+    color: red;
+}
+
+a {
+    margin: 10px;
+    font-size: 150%;
+    text-decoration: underline;
+}
+
+img{
+    width: auto;
+    margin: auto;
+}
+
+p {
+    width: 70%;
+    margin: auto;
+    font-family: 'Arima Madurai', cursive;
+    font-size: 125%;
+    text-indent: 30px;
+    text-align: justify;
+} 
+
+p+p {
+    margin-top: 20px;
+}
+
+footer {
+    background-color: #BFF073;
+}
+
+footer a {
+    font-size: 75%;
+}
+
+.my_logo {
+    font-size: 100%;
+    text-align: center;
+}
+
+
+
+
+
+
+
