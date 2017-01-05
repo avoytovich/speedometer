@@ -6,7 +6,7 @@ body {
 
 header {
     height: 269px;
-    background-image: url("/images/speedometer.jpg");
+    background-image: url("images/speedometer.jpg");
 }
 
 #content_two, #content_three {
