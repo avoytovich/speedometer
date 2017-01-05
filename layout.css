@@ -4,6 +4,10 @@ body {
     background-color: #dbf5b3;
 }
 
+#content_two, #content_tree {
+    display: none;
+}
+
 h1 {
     font-weight: bold;
     font-size: 150%;
@@ -16,7 +20,7 @@ a {
     text-decoration: underline;
 }
 
-img{
+img, table {
     width: auto;
     margin: auto;
 }
@@ -34,6 +38,21 @@ p+p {
     margin-top: 20px;
 }
 
+.dark {
+    padding: 10px;
+    background-color: #BFF073;
+}
+
+td {
+    padding: 10px;
+    text-align: left;
+}
+
+.light {
+    text-align: right;
+    border-right: 10px solid #dbf5b3;
+}
+
 footer {
     background-color: #BFF073;
 }
@@ -46,6 +65,7 @@ footer a {
     font-size: 100%;
     text-align: center;
 }
+
 
 
 
