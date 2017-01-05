@@ -4,11 +4,6 @@ body {
     background-color: #dbf5b3;
 }
 
-header {
-    height: 269px;
-    background-image: url("images/speedometer.jpg");
-}
-
 #content_two, #content_three {
     display: none;
 }
