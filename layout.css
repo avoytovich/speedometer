@@ -16,13 +16,19 @@ h1 {
 
 a {
     margin: 10px;
+    color: #007d12;
     font-size: 150%;
     text-decoration: underline;
 }
 
 img, table {
     width: auto;
-    margin: auto;
+    margin: 25px auto;
+}
+
+.speedometer {
+    margin-top: 0px;
+    margin-bottom: 50px;
 }
 
 p {
