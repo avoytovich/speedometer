@@ -4,6 +4,10 @@ body {
     background-color: #dbf5b3;
 }
 
+nav {
+    margin-top: 50px;
+}
+
 #content_two, #content_three {
     display: none;
 }
@@ -23,7 +27,10 @@ a {
 
 img, table {
     width: auto;
-    margin: auto;
+}
+
+.district, table {
+    margin: 25px auto;
 }
 
 p {
