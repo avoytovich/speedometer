@@ -12,6 +12,12 @@ nav {
     display: none;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
 h1 {
     font-weight: bold;
     font-size: 150%;
