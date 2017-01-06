@@ -23,16 +23,7 @@ a {
 
 img, table {
     width: auto;
-    margin: 25px auto;
-}
-
-.logo {
-   margin: 0px; 
-}
-
-.speedometer {
-    margin-top: 0px;
-    margin-bottom: 50px;
+    margin: auto;
 }
 
 p {
