@@ -18,6 +18,10 @@ img {
     display: block;
 }
 
+.logo {
+    display: inline;
+}
+
 h1 {
     font-weight: bold;
     font-size: 150%;
