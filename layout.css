@@ -25,10 +25,6 @@ a {
     text-decoration: underline;
 }
 
-img, table {
-    width: auto;
-}
-
 .district, table {
     margin: 25px auto;
 }
