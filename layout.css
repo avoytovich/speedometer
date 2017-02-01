@@ -8,7 +8,7 @@ nav {
     margin-top: 50px;
 }
 
-#content_two, #content_three {
+#content_two, #content_three, #content_four {
     display: none;
 }
 
@@ -40,10 +40,10 @@ a {
 }
 
 p {
-    width: 70%;
+    width: 90%;
     margin: auto;
     font-family: 'Arima Madurai', cursive;
-    font-size: 125%;
+    font-size: 21px;
     text-indent: 30px;
     text-align: justify;
 } 
@@ -79,6 +79,46 @@ footer a {
     font-size: 100%;
     text-align: center;
 }
+
+figure {
+    display: inline-block;
+    margin: 10px;
+    width: 40%;
+    font-size: 21px;
+    color: #F7EAC8;
+    background: #21C469;
+    border-radius: 10px;
+    box-shadow: 0px 10px 16px 0px rgba(0, 0, 0, 0.2), 0px 6px 20px 0px rgba(0, 0, 0, 0.19);
+}
+
+.add {
+    text-align: center;
+}
+
+.model a {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.model {
+    margin: auto;
+    width: 90%;
+    -webkit-column-count: 4; /* Chrome, Safari, Opera */
+    -moz-column-count: 4; /* Firefox */
+    column-count: 4;
+    -webkit-column-gap: 25px;
+    -moz-column-gap: 25px;
+    column-gap: 25px;
+    background-color: #BFF073;
+}
+
+.about_all {
+    display: none;
+}
+
+
+
+
 
 
 
