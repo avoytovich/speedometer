@@ -84,6 +84,7 @@ figure {
     display: inline-block;
     margin: 10px;
     width: 40%;
+    text-align: center;
     font-size: 21px;
     color: #F7EAC8;
     background: #21C469;
