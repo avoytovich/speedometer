@@ -83,7 +83,7 @@ footer a {
 figure {
     display: inline-block;
     margin: 10px;
-    width: 40%;
+    width: 30%;
     text-align: center;
     font-size: 21px;
     color: #F7EAC8;
@@ -113,9 +113,7 @@ figure {
     background-color: #BFF073;
 }
 
-.about_all {
-    display: none;
-}
+
 
 
 
